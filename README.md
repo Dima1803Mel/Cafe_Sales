@@ -2,7 +2,7 @@
 
 Очищение грязных данных, а затем их разведочный анализ данных (EDA) на примере транзакций продаж в кофе.
 
-Грязный датасет взяты [отсюдова]:(https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
+Грязный датасет взяты [отсюдова](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
 
 ## Шаги, сделанные для очищения данных:
 1. Заменены недопустимые записи, такие как "UNKNOWN" и "ERROR", на Nan.
